@@ -1,0 +1,8 @@
+==> Formulae
+autojump		ca-certificates		fish			gh			krb5			libcbor			libgit2			libssh2			libvterm		lz4			mpdecimal		neovim			onefetch		openssl@3		postgresql@14		sqlite			xz
+brotli			docker			flyctl			git			lazygit			libevent		libgit2@1.5		libtermkey		luajit			make			msgpack			node			openssh			pcre2			python@3.11		tree-sitter
+c-ares			docker-completion	gettext			icu4c			ldns			libfido2		libnghttp2		libuv			luv			mkcert			ncurses			nvm			openssl@1.1		pnpm			readline		unibilium
+
+==> Casks
+aldente			android-file-transfer	bitwarden		devtoys			dropbox			iina			keka			notion			qbittorrent		rectangle		unnaturalscrollwheels	vlc
+alt-tab			appcleaner		coteditor		discord			figma			iterm2			knockknock		obsidian		raycast			spotify			visual-studio-code	wezterm
