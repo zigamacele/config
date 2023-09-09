@@ -1,0 +1,23 @@
+{
+  "must-have": [
+    "AlDente",
+    "AltTab",
+    "AppCleaner",
+    "Bitwarden",
+    "Command X",
+    "DBeaver",
+    "Discord",
+    "Docker",
+    "Hidden Bar",
+    "Figma",
+    "IINA",
+    "iTerm2",
+    "KeyboardCleanTool",
+    "Obsidian",
+    "Notion",
+    "TickTick",
+    "qBittorrent",
+    "Raycast"
+  ],
+  "nice-to-have": ["DevToys", "PlayCover", "Android File Transfer", "Fork"]
+}
